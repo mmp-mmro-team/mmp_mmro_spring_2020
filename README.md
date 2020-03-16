@@ -5,7 +5,7 @@
 <img src="http://funzoo.ru/uploads/posts/2009-11/1258648863_tn.jpg" height=200pt> <img src="https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/trash/kernel_trick.jpg" height=200pt>
 </p>
 
-**Курс сдается через систему [anytask (нужно поправить ссылку на новый курс)](https://anytask.org/course/534)**
+**Курс сдается через систему [anytask](https://anytask.org/course/668)**
 
 На семинары и работу ассистентов можно оставить отзыв: [[анонимно без регистрации и смс](https://docs.google.com/forms/d/e/1FAIpQLSf_wnrm52RfnHkqZPbsWOpjzd9Uelwq5Jk0elZYGH2p-vQyaw/viewform)]
 
@@ -19,11 +19,7 @@
 
 ## Правила выставления оценок
 
-1. В ходе семестра будет несколько теоретических проверочных работ, практических заданий и контестов.
-2. Для «закрытия» теоретической темы необходимо либо решить проверочную или теоретическое дз на 70% (без учета штрафа), либо, в противном случае, решить задачи по этой теме на зачете. В случае закрытия всех тем, по семинарам ставится зачет.
-3. Для успешной сдачи практического задания необходимо набрать по нему хотя бы 80% баллов (без учета штрафа).
-4. Для допуска к экзамену необходимо получить зачет по семинарам +  успешно сдать ВСЕ практические задания (см. пункт 3).
-5. За выдающиеся успехи (85%+ от общего числа баллов) мы дарим вам +1 балл на экзамене!
+TODO
 
 ## Занятия
 
@@ -31,3 +27,6 @@
 | :---: | :---: | --- | --- | --- |
 | 13 февраля  | Семинар 1  | <ul><li>Имплементации градиентного бустинга</li><li>Блендинг</li><li>Важность признаков: OOB и FSTR</li><li>Интерпретация алгоритмов: LIME</li></ul> | [Ноутбук с кодом семинара (прошлогодний, с опечатками)](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem10-gbm.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 20 февраля  | Семинар 2  | <ul><li>Байесовские методы машинного обучения</li><li>Оптимальные байесовские правила:<ol><li>Для классификации</li><li>Для регрессии</li></ol></li><li>Наивный байесовский классификатор</li></ul> | <ul><li>[PDF с семинаром (все, кроме оптимального байесовского правила для регресси)](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/seminars/sem2-bayes.pdf)</li><li>[PDF с оптимальным байесовским правилом для регресси (§2.1)](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/seminars/sem2.5-ensembles.pdf) </li></ul> | ¯\\\_(ツ)\_/¯ |
+| 27 февраля  | Семинар 3  | <ul><li>Метод главных компонент, обсуждение методов отбора признаков</li></ul> | [Ноутбук с кодом семинара 1](https://colab.research.google.com/drive/1N5jvNGNibBSgLBrCPRV6NbXxvCAYsQI7) [Ноутбук 2](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem11_clustering%2Bpca.ipynb) | ¯\\\_(ツ)\_/¯ |
+| 5 марта  | Семинар 4  | <ul><li>Вывод линейного дискриминанта Фишера</li><li>Ядровой метод главных компонент</li></ul> | [Лекция раз](https://github.com/esokolov/ml-course-hse/blob/master/2017-spring/seminars/sem15-fld.pdf) [Лекция 2](https://github.com/esokolov/ml-course-hse/blob/master/2017-spring/lecture-notes/lecture16-kernels.pdf) | ¯\\\_(ツ)\_/¯ |
+| 5 марта  | Семинар 5  | <ul><li>Аппроксимация ядер</li><li>Ядра для строк</li></ul> | [Лекция, секции 1-2](https://github.com/esokolov/ml-course-hse/blob/master/2018-spring/lecture-notes/lecture14-kernels.pdf)| ДЗ 1|
