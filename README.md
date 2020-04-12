@@ -21,6 +21,7 @@
 * [Курс лекций по ММРО](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%92.%D0%92.%D0%9A%D0%B8%D1%82%D0%BE%D0%B2%29)
 * [Курс Практикума на ЭВМ, осень](https://github.com/mmp-practicum-team/mmp_practicum_fall_2019)
 * [Курс ММРО 19/20, осень](https://github.com/mmp-mmro-team/mmp_mmro_fall_2019)
+* [Видеозаписи семинаров в zoom](https://www.youtube.com/playlist?list=PLVF5PzSHILHS4D2vIDyBmnAsMyLLFc6Ir)
 
 ## Правила выставления оценок
 
@@ -50,4 +51,4 @@
 | 19 марта  | Семинар 6  | <ul><li>EM алгоритм</li><li>Разделение смеси нормальных распределений</li></ul> | <ul><li>[Материалы семинара](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/seminars/sem6-em.pdf)</li><li>[Матричное дифференцирование](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/seminars/sem6.5-matrix_differentiation.pdf)</li></ul>| ¯\\\_(ツ)\_/¯ |
 | 26 марта  | Семинар 7  | <ul><li>Разделение смеси распределений Бернулли</li><li>Восстановление разметки с помощью EM-алгоритма</li></ul> | <ul><li>[Материалы семинара](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/seminars/sem6-em.pdf)</li></ul>| [Теор ДЗ](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/homework-theory/homework-theory-em.pdf) |
 | 2 апреля  | Семинар 8  | <ul><li>Обучение ранжированию</li></ul> | <ul><li>[Материалы семинара](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/seminars/lecture-ranking.pdf)</li><li>[Конспект с семинара](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/seminars/lecture-notes-ranking.pdf)</li></ul>| ¯\\\_(ツ)\_/¯ |
-| 9 апреля  | Семинар 9  | <ul><li>Рекомендательные системы: вывод шагов для ALS и HALS</li><li>Факторизационные машины</li></ul> | <ul><li>[Материалы семинара](https://github.com/esokolov/ml-course-hse/blob/master/2019-spring/seminars/sem19-recommendations.pdf)</li></ul>| ¯\\\_(ツ)\_/¯ |
+| 9 апреля  | Семинар 9  | <ul><li>Рекомендательные системы: вывод шагов для ALS и HALS</li><li>Факторизационные машины</li></ul> | <ul><li>[Материалы семинара](https://github.com/esokolov/ml-course-hse/blob/master/2019-spring/seminars/sem19-recommendations.pdf)</li></ul>| [ДЗ 2](https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/tree/master/homework-practice/homework-practice-02) |
